@@ -7,9 +7,13 @@ and also in improving experimental parameters.
 These packages at Glycam are: 
 
   3J_Coupling_Distribution 
+  
   Assign_SLP
-  MD2NOE 
+  
+  MD2NOE
+  
   particular_relaxation_rate
+  
   Single_Frame_NMR 
 
 All of these have been central to their respective publications, as with all software 
