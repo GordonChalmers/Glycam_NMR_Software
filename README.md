@@ -18,7 +18,7 @@ These packages at Glycam are:
 
 All of these have been central to their respective publications, as with all molecular 
 software that I have developed.  The downloads have the software, documentation, 
-instructions, and the relevant paper(s).
+instructions, example usages, and the relevant paper(s).
 
 http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
