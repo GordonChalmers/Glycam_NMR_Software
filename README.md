@@ -23,4 +23,4 @@ instructions, example usages, and the relevant paper(s).
 http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
 There are several unreleased software packages written while working in the Woods group 
-and Glycam, some of which are described in the Presentations repository.
+and Glycam, some of which are described in the GRC_Presentations repository.
