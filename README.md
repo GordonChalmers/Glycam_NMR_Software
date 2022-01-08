@@ -16,9 +16,9 @@ These packages at Glycam are:
   
     Single_Frame_NMR 
 
-All of these have been central to their respective publications, as with all software 
-that I have developed.  The downloads have the software, documentation, instructions, 
-and the relevant paper(s).
+All of these have been central to their respective publications, as with all molecular 
+software that I have developed.  The downloads have the software, documentation, 
+instructions, and the relevant paper(s).
 
 http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
