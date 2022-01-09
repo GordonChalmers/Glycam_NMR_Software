@@ -10,7 +10,10 @@ These packages at Glycam are:
     
         http://legacy.glycam.org/docs/othertoolsservice/download/Software/publication-software/3J_coupling_distribution.tar_.gz
   
-    Assign_SLP_Redirect  (to avoid multiple copies on 2 sites this points to the JHP software site, please go there)
+    ASSIGN_SLP_Redirect - This is an older version of Assign_SLP_MD and to avoid multiple copies on 2 sites this links to the JHP 
+        software site.  However, the ASSIGN_SLP_1_12 is a separate repository here.  
+        
+       http://legacy.glycam.org/docs/othertoolsservice/download/Software/publication-software/ASSIGN_SLP_redirect.docx 
   
     MD2NOE - This is an older version of MD2NOE_Protein, suitable for small molecules not proteins.  
         This is a large download please download from:
