@@ -12,7 +12,8 @@ These packages at Glycam are:
   
     Assign_SLP_Redirect  (to avoid multiple copies on 2 sites this points to the JHP software site, please go there)
   
-    MD2NOE - This is an older version of MD2NOE_Protein, suitable for small molecules not proteins, which is contained in this GitHub account.
+    MD2NOE - This is an older version of MD2NOE_Protein, suitable for small molecules not proteins.  
+        This is a large download please download from:
     
         http://tesla.ccrc.uga.edu/ShortTermStorage/MD2NOE.tar.gz
   
