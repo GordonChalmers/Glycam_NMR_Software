@@ -35,4 +35,4 @@ instructions, example usages, and the relevant paper(s).
 
 http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
-There are more unreleased software packages. 
+There are several more unreleased completed or near completed Glycam related software packages. 
