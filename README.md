@@ -10,13 +10,14 @@ These packages at Glycam are:
     
         http://legacy.glycam.org/docs/othertoolsservice/download/Software/publication-software/3J_coupling_distribution.tar_.gz
   
-    Assign_SLP_Redirect  (to avoid multiple copies on 2 sites this points to the JHP software site)
+    Assign_SLP_Redirect  (to avoid multiple copies on 2 sites this points to the JHP software site, please go there)
   
     MD2NOE - This is an older version of MD2NOE_Protein, suitable for small molecules not proteins, which is contained in this GitHub account.
     
         http://tesla.ccrc.uga.edu/ShortTermStorage/MD2NOE.tar.gz
   
     particular_relaxation_rate
+        This is a large file and please download from:
     
         http://legacy.glycam.org/docs/othertoolsservice/wp-content/uploads/sites/15/2017/04/particular_relaxation_rate.tar_.gz
   
