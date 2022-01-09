@@ -28,7 +28,6 @@ These packages at Glycam are:
     Single_Frame_NMR 
     
         http://legacy.glycam.org/docs/othertoolsservice/download/Software/publication-software/SingleFrameNMR.tar_.gz
-        
 
 All of these have been central to their respective publications, as with all molecular 
 software that I have developed.  The downloads have the software, documentation, 
@@ -36,5 +35,4 @@ instructions, example usages, and the relevant paper(s).
 
 http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
-There are several unreleased software packages written while working in the Woods group 
-and Glycam, some of which are described in the GRC_Presentations repository.
+There are more unreleased software packages. 
