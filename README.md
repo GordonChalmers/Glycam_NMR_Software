@@ -30,8 +30,9 @@ These packages at Glycam are:
         http://legacy.glycam.org/docs/othertoolsservice/download/Software/publication-software/SingleFrameNMR.tar_.gz
 
 All of these have been central to their respective publications, as with all molecular 
-software that I have developed.  The downloads have the software, documentation, 
-instructions, example usages, and the relevant paper(s).
+software that I have developed.  The primary paper(s) are given in the documentation folder 
+of the download.  The downloads have the software, documentation, instructions, example usages, 
+and the relevant paper(s).
 
 http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
