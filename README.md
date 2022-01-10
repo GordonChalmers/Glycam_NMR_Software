@@ -34,6 +34,12 @@ software that I have developed.  The primary paper(s) are given in the documenta
 of the download.  The downloads have the software, documentation, instructions, example usages, 
 and the relevant paper(s).
 
-http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
+Curl can be used to download the packages at the command line: 
+
+        curl -# -o Paxkage Package_URL
+
+In-house developed software relevant to Glycam is at: 
+
+    http://legacy.glycam.org/docs/othertoolsservice/publication-related-materials/browse-publication-related-materials/index.html
 
 There are several more unreleased completed or near completed Glycam related software packages. 
